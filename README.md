@@ -31,6 +31,10 @@
 
 ###
 
+<img align="right" height="160" src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952m8bkm5uyzzky1fy6ptpiqv0fi5dw4n98yj4xgi7r&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/pushkar-singh-512648235/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -42,14 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="160" src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952m8bkm5uyzzky1fy6ptpiqv0fi5dw4n98yj4xgi7r&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/PushkarSingh20/PushkarSingh20/output/snake.svg" alt="Snake animation" />
 
 ###
 
