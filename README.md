@@ -1,71 +1,88 @@
-<h2 align="center">Hi 👋, I'm Pushkar Singh - Data Scientist & Python Developer</h2>
+<!-- Animated Typing Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Turning+data+into+impact;Exploring+ML,+DSA,+Deep+Learning+&+Maths;Let%27s+collaborate!" 
+         alt="Typing Intro" />
+  </a>
+</p>
+
+<h2 align="center">Hi 👋, I'm Pushkar Singh – Data Scientist & Python Developer</h2>
 
 <p align="center">
-  Passionate about solving real-world problems using data and code. Currently exploring ML, DSA, and web development.
+  Turning data into insight and code into impact. Currently deepening skills in ML, DSA, deep learning, and math.
 </p>
 
 ---
 
-### 🔥 GitHub Stats & Languages
+## 🔥 GitHub Stats & Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PushkarSingh20&show_icons=true&theme=dracula&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarSingh20&layout=compact&theme=dracula&langs_count=6" height="160" />
-</div>
+<p align="center">
+  <!-- Dark mode stats -->
+  [![GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=PushkarSingh20&show_icons=true&theme=dracula&count_private=true#gh-dark-mode-only)](https://github.com/PushkarSingh20)
 
----
+  <!-- Light mode stats -->
+  [![GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=PushkarSingh20&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/PushkarSingh20)
+</p>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PushkarSingh20&theme=dracula&no-frame=true&column=4" />
-</div>
-
----
-
-### 💻 Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" />
-</div>
+<p align="center">
+  <!-- Top languages -->
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarSingh20&layout=compact&theme=dracula&langs_count=6)](https://github.com/PushkarSingh20)
+</p>
 
 ---
 
-### 🤝 Connect with Me
+## 🧰 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/pushkar-singh-512648235/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/pushkar_singh_20/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" alt="Instagram" />
   </a>
-  <a href="https://www.hackerrank.com/profile/roshanisingh481" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://www.hackerrank.com/roshanisingh481" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&style=for-the-badge" alt="HackerRank" />
   </a>
-</div>
+</p>
 
 ---
 
-### 👀 Visitor Count
+## 📈 Highlights
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PushkarSingh20/count.svg?" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PushkarSingh20&theme=dracula&no-frame=true&column=4" alt="Trophies" />
+  <img src="https://profile-counter.glitch.me/PushkarSingh20/count.svg" alt="Visitor Count" />
+  <img src="https://streak-stats.demolab.com?user=PushkarSingh20&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### ⏳ GitHub Streaks (Optional)
+## 💼 About Me
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PushkarSingh20&theme=dracula&hide_border=true" />
-</div>
+- 🔭 Currently exploring **Data Structures & Algorithms**, **Deep Learning**, **Scikit-Learn**, and the **math** that powers ML.
+- 🤝 Love collaborating on machine learning, data science, and web development projects—especially beginner-friendly ones.
+- 💬 Ask me about Python, SQL, Pandas, EDA, or strategies for CS/DS students.
+- ⚡ Fun fact: I explained AI at a tech event and bagged **first prize in an IoT debate**—nerd wins!
+
+---
+
+✨ *Profile powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*  
+⚡ Typing animation via [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)  
+🎨 Inspired by top community templates
+
